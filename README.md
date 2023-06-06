@@ -3,7 +3,7 @@
 I'm a Developer/Software Engineer who strives to write clean(*without sacrificing performance, ofc*) & secure code that respects the privacy & freedom of the user.
 
 - :man_mechanic: I'm currently working on *[Tsilo dot](https://github.com/sandeepdotcode/todo-list)(Personal Project)*.
-- :open_book: I'm currently learning *Asynchronous JS* & *Standard ML*.
+- :open_book: I'm currently learning @TheOdinProject curriculum.
 - :man_technologist: Languages & Technologies in my to-learn list:  
   - Node.js
   - Svelte
