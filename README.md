@@ -3,11 +3,16 @@
 I'm a Developer/Software Engineer who strives to write clean(*without sacrificing performance, ofc*) & secure code that respects the privacy & freedom of the user.
 
 - :man_mechanic: I'm currently working on *[Tsilo dot](https://github.com/sandeepdotcode/todo-list)(Personal Project)*.
-- :open_book: I'm currently learning @TheOdinProject curriculum.
-- :man_technologist: Languages & Technologies in my to-learn list:  
-  - Node.js
+- 🌱 I'm currently learning @TheOdinProject curriculum.
+- 📖 I'm currently reading:
+  - [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson
+  - Midnight's Children by Salman Rushdie
+- :man_technologist: Languages & Technologies in my to-learn list:
+  - A backend framework(tbd)
+  - An SQL db & a no SQL db
   - Svelte
-  - Rust
+  - Maybe Rust?
+  - Haskell
 - :computer: My programming goal is to contribute to the linux kernel one day.
 
 ### Languages & Frameworks:
