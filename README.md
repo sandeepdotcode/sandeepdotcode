@@ -26,17 +26,13 @@ I'm a Developer/Software Engineer who strives to write *cleanish* (*with minimal
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 -->
 <p align="left">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cpp,go" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cpp,go" />
 </p>
 
 ### Frameworks & Libraries:
 
 <p align="left">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react,svelte,tailwind,jest" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,svelte,tailwind,jest" />
 </p>
 
 ### Other Tools:
@@ -49,9 +45,7 @@ I'm a Developer/Software Engineer who strives to write *cleanish* (*with minimal
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 -->
 <p align="left">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git,nodejs,vite,webpack,figma,vim,vscode" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,nodejs,vite,webpack,figma,vim,vscode" />
 </p>
 
 [//]: <> (github stats.)
