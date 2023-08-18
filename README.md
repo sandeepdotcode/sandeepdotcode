@@ -3,16 +3,19 @@
 I'm a Developer/Software Engineer who strives to write *cleanish* (*with minimal performance sacrifice*) & secure code that respects the privacy & freedom of the user.
 
 - :man_mechanic: I'm currently working on *[CodeCraftedResume](https://github.com/sandeepdotcode/code-crafted-resume)(Personal Project)*.
-- 🌱 I'm currently learning React and Node.js, mostly through @TheOdinProject curriculum.
+- 🌱 I'm currently learning:
+  - React and Node.js, mostly through @TheOdinProject curriculum.
+  - Svelte
+  - Go
 - 📖 I'm currently reading:
   - [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson
   - Midnight's Children by Salman Rushdie
 - :man_technologist: Languages & Technologies in my to-learn list:
-  - A backend framework(tbd)
-  - An SQL db & a no SQL db
-  - Svelte
-  - Maybe Rust?
+  - Express
+  - PostgreSQL
+  - MongoDB
   - Haskell
+  - Maybe Rust or Zig?
 
 ### Languages & Frameworks:
 <!--
