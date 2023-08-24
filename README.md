@@ -4,7 +4,7 @@ I'm a Developer/Software Engineer who strives to write *cleanish* (*with minimal
 
 - :man_mechanic: I'm currently working on *[CodeCraftedResume](https://github.com/sandeepdotcode/code-crafted-resume)(Personal Project)*.
 - 🌱 I'm currently learning:
-  - React and Node.js, mostly through @TheOdinProject curriculum.
+  - React and Express, mostly through @TheOdinProject curriculum.
   - Svelte
   - Go
 - 📖 I'm currently reading:
