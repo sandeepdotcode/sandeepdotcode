@@ -13,11 +13,10 @@ I'm a Developer/Software Engineer who strives to write *cleanish* (*with minimal
 - :man_technologist: Languages & Technologies in my to-learn list:
   - Express
   - PostgreSQL
-  - MongoDB
   - Haskell
   - Maybe Rust or Zig?
 
-### Languages & Frameworks:
+### Languages:
 <!--
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -29,10 +28,10 @@ I'm a Developer/Software Engineer who strives to write *cleanish* (*with minimal
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cpp,go" />
 </p>
 
-### Frameworks & Libraries:
+### Frameworks, Libraries & DBs:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,svelte,tailwind,jest" />
+  <img src="https://skillicons.dev/icons?i=react,svelte,tailwind,jest,mongodb" />
 </p>
 
 ### Other Tools:
