@@ -31,7 +31,7 @@ I'm a Developer/Software Engineer who strives to write *cleanish* (*with minimal
 ### Frameworks, Libraries & DBs:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,astro,svelte,tailwind,jest,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,svelte,tailwind,jest,express,mongodb" />
 </p>
 
 ### Other Tools:
