@@ -5,7 +5,7 @@ I'm a Developer/Software Engineer who strives to write *cleanish* (*with minimal
 - :man_mechanic: I'm currently working on *[Discord Clone](https://github.com/sandeepdotcode/discord-clone)(Personal Project)*.
 - 🌱 I'm currently learning:
   - React and Express, mostly through @TheOdinProject curriculum.
-  - Svelte
+  - Next.js
   - Go
 - 📖 I'm currently reading:
   - [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson
