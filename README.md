@@ -2,7 +2,7 @@
 
 I'm a Developer/Software Engineer who strives to write *cleanish* (*with minimal performance sacrifice*) & secure code that respects the privacy & freedom of the user.
 
-- :man_mechanic: I'm currently working on *[CodeCraftedResume](https://github.com/sandeepdotcode/code-crafted-resume)(Personal Project)*.
+- :man_mechanic: I'm currently working on *[Discord Clone](https://github.com/sandeepdotcode/discord-clone)(Personal Project)*.
 - 🌱 I'm currently learning:
   - React and Express, mostly through @TheOdinProject curriculum.
   - Svelte
