@@ -31,7 +31,7 @@ I'm a Developer/Software Engineer who strives to write *cleanish* (*with minimal
 ### Frameworks, Libraries & DBs:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,svelte,tailwind,jest,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,svelte,tailwind,jest,express,postgres,mongodb" />
 </p>
 
 ### Other Tools:
@@ -44,7 +44,7 @@ I'm a Developer/Software Engineer who strives to write *cleanish* (*with minimal
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,nodejs,vite,webpack,figma,vim,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,nodejs,vite,webpack,figma,vim" />
 </p>
 
 [//]: <> (github stats.)
