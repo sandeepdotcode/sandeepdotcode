@@ -6,13 +6,11 @@ I'm a Developer/Software Engineer who strives to write *cleanish* (*with minimal
 - 🌱 I'm currently learning:
   - React and Express, mostly through @TheOdinProject curriculum.
   - Next.js
-  - Go
+  - PostgreSQL
 - 📖 I'm currently reading:
   - [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson
   - Midnight's Children by Salman Rushdie
 - :man_technologist: Languages & Technologies in my to-learn list:
-  - Express
-  - PostgreSQL
   - Haskell
   - Maybe Rust or Zig?
 
