@@ -1,6 +1,6 @@
 ### Hi there, I'm Sandeep
 
-I'm a Developer/Software Engineer who strives to write *cleanish* (*with minimal performance sacrifice*) & secure code that respects the privacy & freedom of the user.
+I'm a Developer/Software Engineer who strives to write secure code that respects the privacy & freedom of the user.
 
 - :man_mechanic: I'm currently working on *[Moocord](https://github.com/sandeepdotcode/moocord)(Personal Project)*.
 - 🌱 I'm currently learning:
