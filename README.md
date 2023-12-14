@@ -23,7 +23,7 @@ I'm a Developer/Software Engineer who strives to write secure code that respects
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cpp,go" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cpp" />
 </p>
 
 ### Frameworks, Libraries & DBs:
